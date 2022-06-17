@@ -6,7 +6,6 @@ Coor_all：协调器节点
 校验位：空置（NONE）
 数据位：8
 停止位：1
-数据方式：String
 
 串口控制： 0：HMLED_ON
 	  1：HMLED_OFF
